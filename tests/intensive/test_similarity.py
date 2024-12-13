@@ -77,7 +77,7 @@ Brain config setup at `~/.fiftyone/brain_config.json`::
             "redis": {
                 "host": "localhost",
                 "port": 6379
-            }
+            },
             "elasticsearch": {
                 "hosts": "http://localhost:9200",
                 "username": "elastic",
